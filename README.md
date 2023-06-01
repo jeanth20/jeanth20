@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/sven-bo/sven-bo/master/codingisfun_banner.png)](https://youtube.com/c/codingisfun)
+[![MastHead]]
 
 ### Hi there 👋
 
