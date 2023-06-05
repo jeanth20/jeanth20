@@ -19,7 +19,6 @@ look_at = {
 }
 
 ai_tools = [
-
     https://www.aomni.com/ <br>
     https://lexica.art/ <br>
     https://feedly.com/ <br>
