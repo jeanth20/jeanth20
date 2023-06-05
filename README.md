@@ -13,14 +13,14 @@
 
 look_at = {
 
-"email_client": "https://www.courier.com/",
+"email_client": "https://www.courier.com/",<br>
 
-"Complete User Management": "https://clerk.com/?utm_source=www.youtube.com&utm_medium=referral&utm_campaign=none"
+"Complete User Management": "https://clerk.com/?utm_source=www.youtube.com&utm_medium=referral&utm_campaign=none" <br>
 
 }
 
 ai_tools = [
-    https://www.aomni.com/
+    https://www.aomni.com/ <br>
     https://lexica.art/
     https://feedly.com/
     https://lumalabs.ai/
