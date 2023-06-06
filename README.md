@@ -16,6 +16,8 @@ look_at = {
 "email_client": "https://www.courier.com/",<br>
 "Complete User Management": "https://clerk.com/?utm_source=www.youtube.com&utm_medium=referral&utm_campaign=none" <br>
 "Quick_backgrounds": "https://app.haikei.app/" <br>
+"Chat_Engine_signup": "https://chatengine.io" <br>
+
 }
 
 ai_tools = [
