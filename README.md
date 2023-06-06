@@ -17,7 +17,9 @@ look_at = {
 "Complete User Management": "https://clerk.com/?utm_source=www.youtube.com&utm_medium=referral&utm_campaign=none" <br>
 "Quick_backgrounds": "https://app.haikei.app/" <br>
 "Chat_Engine_signup": "https://chatengine.io" <br>
-"reactpy": "https://pypi.org/project/reactpy/" <br>
+"Reactpy": "https://pypi.org/project/reactpy/" <br>
+"PocketBasepy": "https://pypi.org/project/pocketbase/0.1.2/" <br>
+"PocketBase": "https://pocketbase.io/" <br>
 
 }
 
