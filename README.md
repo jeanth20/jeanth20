@@ -20,6 +20,7 @@ look_at = {
 "Reactpy": "https://pypi.org/project/reactpy/" <br>
 "PocketBasepy": "https://pypi.org/project/pocketbase/0.1.2/" <br>
 "PocketBase": "https://pocketbase.io/" <br>
+"Prometheus": "https://dev.to/ken_mwaura1/getting-started-monitoring-a-fastapi-app-with-grafana-and-prometheus-a-step-by-step-guide-3fbn" <br>
 
 }
 
