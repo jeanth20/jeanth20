@@ -53,5 +53,7 @@ ai_tools = [
     https://beta.elevenlabs.io/ <br>
 
 ] 
-  
+
+property_tenets_check = "https://www.tpn.co.za/group"
+
 </p>
