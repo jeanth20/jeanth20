@@ -28,7 +28,7 @@ property_tenets_check = "https://www.tpn.co.za/group"
 
 tkinter = "https://www.youtube.com/watch?v=6t56ijo17f8"
 
-nltk = "https://www.youtube.com/watch?v=QpzMWQvxXWk"
+nltk = ["https://www.youtube.com/watch?v=QpzMWQvxXWk", "https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/notebook#Step-3.-Roberta-Pretrained-Model"]
 
 
 
