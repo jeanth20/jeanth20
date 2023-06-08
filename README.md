@@ -24,6 +24,14 @@ look_at = {
 
 }
 
+property_tenets_check = "https://www.tpn.co.za/group"
+
+tkinter = "https://www.youtube.com/watch?v=6t56ijo17f8"
+
+nltk = "https://www.youtube.com/watch?v=QpzMWQvxXWk"
+
+
+
 ai_tools = [
     https://www.aomni.com/ <br>
     https://lexica.art/ <br>
@@ -54,9 +62,5 @@ ai_tools = [
 
 ] 
 
-property_tenets_check = "https://www.tpn.co.za/group"
 
-tkinter = "https://www.youtube.com/watch?v=6t56ijo17f8"
-
-nltk = "https://www.youtube.com/watch?v=QpzMWQvxXWk"
 </p>
