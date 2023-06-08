@@ -56,4 +56,6 @@ ai_tools = [
 
 property_tenets_check = "https://www.tpn.co.za/group"
 
+tkinter = "https://www.youtube.com/watch?v=6t56ijo17f8"
+    
 </p>
