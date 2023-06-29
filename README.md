@@ -26,6 +26,8 @@ look_at = {
 
 property_tenets_check = "https://www.tpn.co.za/group"
 
+https://analytics.alltherooms.com/investor/historical/803095
+
 tkinter = "https://www.youtube.com/watch?v=6t56ijo17f8"
 
 nltk = ["https://www.youtube.com/watch?v=QpzMWQvxXWk", "https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/notebook#Step-3.-Roberta-Pretrained-Model"]
