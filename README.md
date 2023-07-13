@@ -25,6 +25,8 @@ look_at = {
 
 }
 
+gov = "https://www.govchain.co.za/" <br>
+
 property_tenets_check = "https://www.tpn.co.za/group <br>
 
 https://analytics.alltherooms.com/investor/historical/803095 <br>
