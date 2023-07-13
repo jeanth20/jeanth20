@@ -25,6 +25,8 @@ look_at = {
 
 }
 
+streamlit_icons = "https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/"<br>
+
 gov = "https://www.govchain.co.za/" <br>
 
 property_tenets_check = "https://www.tpn.co.za/group <br>
