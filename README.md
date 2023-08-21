@@ -41,6 +41,7 @@ tkinter = "https://www.youtube.com/watch?v=6t56ijo17f8"
 
 nltk = ["https://www.youtube.com/watch?v=QpzMWQvxXWk", "https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/notebook#Step-3.-Roberta-Pretrained-Model"]
 
+pocketbase = "https://www.9lessons.info/2022/10/pocketbase-hosting-on-apache-or-xampp.html"<br>
 
 
 ai_tools = [
