@@ -44,7 +44,8 @@ nltk = ["https://www.youtube.com/watch?v=QpzMWQvxXWk", "https://www.kaggle.com/c
 pocketbase = "https://www.9lessons.info/2022/10/pocketbase-hosting-on-apache-or-xampp.html"<br>
 
 docker = "https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu,<br>
-          https://www.youtube.com/watch?v=vv8x9HF-QNg,"<br>
+          https://www.youtube.com/watch?v=vv8x9HF-QNg,<br>
+          https://www.youtube.com/watch?v=7ahDnxnXheU"<br>
 
 
 ai_tools = [
