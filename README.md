@@ -80,9 +80,9 @@ ai_tools = [
 ] 
 
 erc-20 = [
-    https://docs.openzeppelin.com/contracts/4.x/api/token/erc20 <br>
-    https://ethereum.org/en/developers/docs/standards/tokens/erc-20/ <br>
-    https://web3js.readthedocs.io/en/v1.10.0/ <br>
-    https://github.com/jspruance/erc20-tutorial-block-explorer <br>
-    https://www.youtube.com/watch?v=iM8AcSpIZGo <br>
+    https://docs.openzeppelin.com/contracts/4.x/api/token/erc20, <br>
+    https://ethereum.org/en/developers/docs/standards/tokens/erc-20/, <br>
+    https://web3js.readthedocs.io/en/v1.10.0/, <br>
+    https://github.com/jspruance/erc20-tutorial-block-explorer, <br>
+    https://www.youtube.com/watch?v=iM8AcSpIZGo ]<br>
 </p>
