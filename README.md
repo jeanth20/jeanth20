@@ -9,6 +9,9 @@
 
 ![Snake animation]([https://github.com/jeanth20/jeanth20/blob/main/github-contribution-grid-snake.svg])
 
+![Snake animation](https://github.com/jeanth20/jeanth20/raw/main/dist/github-contribution-grid-snake.svg)
+
+
 <p>
 
 look_at = {
