@@ -46,8 +46,8 @@ pocketbase = "https://www.9lessons.info/2022/10/pocketbase-hosting-on-apache-or-
 
 docker = "https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu,<br>
           https://www.youtube.com/watch?v=vv8x9HF-QNg,<br>
-          https://www.youtube.com/watch?v=7ahDnxnXheU"<br>
-
+          https://www.youtube.com/watch?v=7ahDnxnXheU,<br>
+          https://stackoverflow.com/questions/75498940/not-able-to-login-signup-in-appwrite-console"<br>
 
 ai_tools = [
     https://www.aomni.com/ <br>
@@ -85,5 +85,4 @@ erc-20 = [
     https://web3js.readthedocs.io/en/v1.10.0/, <br>
     https://github.com/jspruance/erc20-tutorial-block-explorer, <br>
     https://www.youtube.com/watch?v=iM8AcSpIZGo ],<br>
-    https://stackoverflow.com/questions/75498940/not-able-to-login-signup-in-appwrite-console<br>
 </p>
