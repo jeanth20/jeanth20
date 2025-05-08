@@ -76,7 +76,9 @@ ai_tools = [
     https://uberduck.ai/ <br>
     https://wellsaidlabs.com/ <br>
     https://beta.elevenlabs.io/ <br>
-
+https://scrapegraphai.com/,
+https://www.firecrawl.dev/,
+https://github.com/unclecode/crawl4ai,
 ] 
 
 erc-20 = [
